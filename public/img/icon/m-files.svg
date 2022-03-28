@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Files</title>
+    <desc>Created with Sketch.</desc>
+    <g id="page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="upload-success" transform="translate(-78.000000, -308.000000)" fill="#0F8DFF">
+            <g id="nav">
+                <path d="M89,314.75 L89,329 C89,330.649 87.649,332 86,332 L86,332 L81,332 C79.35,332 78,330.649 78,329 L78,329 L78,314.75 L89,314.75 Z M102,326.284 L102,329 C102,330.649 100.649,332 99,332 L99,332 L94,332 C92.35,332 91,330.649 91,329 L91,329 L91,326.284 L102,326.284 Z M83.5,325 C82.671,325 82,325.672 82,326.5 C82,327.328 82.671,328 83.5,328 C84.328,328 85,327.328 85,326.5 C85,325.672 84.328,325 83.5,325 Z M99,308 C100.649,308 102,309.35 102,311 L102,311 L102,324.784 L91,324.784 L91,311 C91,309.35 92.35,308 94,308 L94,308 Z M86,308 C87.649,308 89,309.35 89,311 L89,311 L89,313.25 L78,313.25 L78,311 C78,309.35 79.35,308 81,308 L81,308 Z" id="Files"></path>
+            </g>
+        </g>
+    </g>
+</svg>
