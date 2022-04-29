@@ -28,6 +28,8 @@ let loginUrl = inDev
   : "https://www.4everland.org/bucketlogin";
 if (/localhost/.test(location.host)) {
   loginUrl = "#/login?test=1";
+} else {
+  loginUrl = "https://dashboard.4everland.org";
 }
 Vue.prototype.$loginUrl = loginUrl;
 
